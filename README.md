@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on SEBPO **Data Analyst**
 
-- 🌱 I’m currently learning **React and advanced Flask**
+- 🌱 I’m currently learning **React and Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rony-code-hub?tab=repositories](https://github.com/Rony-code-hub?tab=repositories)
 
-- 💬 Ask me about **Python, Flask, JavaScript, React, advance CSS, SASS, Tailwind CSS, MongoDB**
+- 💬 Ask me about **Python, Flask, JavaScript, React, advance CSS, SASS, Tailwind CSS, MongoDB, Node.JS**
 
 - Email **mahfujbd2@gmail.com**
 
